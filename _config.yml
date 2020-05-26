@@ -1,1 +1,26 @@
-remote_theme: ziqiangc/researcher
+title: Ziqiang Chen
+url: "https://leejang.github.io"
+baseurl: ""
+
+#markdown: kramdown
+#ins_logo: "0.jpg"
+
+tracking_id: #
+
+#footer: yes
+#footer_url: "https://github.com/ankitsultana"
+#footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "https://leejang.github.io"
+ - name: "Resume"
+   link: "CV_Ziqiang_03092020_2.pdf"
+ - projects: "Projects"
+   link: "projects.md"
+ - name: "Contact"
+   link: "contact"

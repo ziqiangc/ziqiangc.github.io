@@ -2,7 +2,7 @@ title: Ziqiang Chen
 url: "https://ziqiangc.github.io"
 baseurl: ""
 
-#markdown: kramdown
+markdown: kramdown
 #ins_logo: "0.jpg"
 
 tracking_id: #

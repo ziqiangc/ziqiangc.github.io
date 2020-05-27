@@ -20,6 +20,7 @@ Hi! I am a 6th year Ph.D. student of Biostatistics at State University of New Yo
 - Research Assistant, School of Social Work, University at Buffalo
 - Research Assistant, Clinical and Translational Science Institute, University at Buffalo
 
+## [Projects](https://ziqiangc.github.io/projects)
 
 
 ## Publications
@@ -35,15 +36,22 @@ survey data. *Survey Methodology*, 45(3), 465-484.
 <span>**Submitted:**</span> 
 - He, Z., **Chen, Z.**, Wu, Y and Gaile, D. P. (2019). A novel and quick method to power pilot studies for the comparison of assay platforms and under controlled specificity. (submitted) 
 - **Chen, Z.**, Koestler, D., Miecznikowski, J. C., Ren, X. Gaile, D. P. (2019). A novel exact method for Top-K family-wise error control for small sample non-small scale inference. (submitted)
+
 <span>**In Progress:**</span> 
 - **Chen, Z.**, Wilding, G. E. (2020). Unconditional exact tests based on multiple comparisons for Poisson rate. 
 - **Chen, Z.**, Wilding, G. E. (2020). ROC analysis for multistage diagnostic testing procedures in the presence of intermediate results.
 
-## Typography
+## Honors and Awards
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
+<span>Best Young Researchers’ Award, The Upstate Chapter of American
+Statistical Association</span>  
+<span>Poster of Distinction at UB Research Day, University at
+Buffalo</span>  
+<span>Perry Poster Day 2016 Winner, Biostatistics, University at
+Buffalo</span>  
+<span>Outstanding Graduate, The Second Institute of
+Oceanography</span>  
+<span>Outstanding Graduate, Shandong University</span>
 
 Year | Award | Category
 -----|-------|--------

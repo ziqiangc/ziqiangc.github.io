@@ -3,24 +3,23 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [ziqiangc.us@gmail.com](mailto:ziqiangc.us@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+1-7164295949](tel:+1-7164295949)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 714 Kimball Tower
 >
-> London
+> 3435 Main Street
 >
-> United Kingdom
+> Buffalo, NY 14226
 
 ---
 
-## Social
+## Links
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Linkedin](https://www.linkedin.com/in/ziqiang-chen-99075b28/)
+2. [Github](https://github.com/ziqiangc)

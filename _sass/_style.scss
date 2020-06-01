@@ -14,12 +14,13 @@ body {
     font-family: "Inconsolata";
     height: 100%;
 }
-a {
-    text-decoration: none;
-    color: $accent;
+a:link {
+  color: #272727;
+  text-decoration: none;
 }
 a:hover {
-    text-decoration: underline;
+  color: $accent;
+  text-decoration: underline;
 }
 hr {
     border: 0;

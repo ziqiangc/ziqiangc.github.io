@@ -3,27 +3,27 @@
 `survey` **Blood Sisterhood Survey (CDC)** [[link]](https://www.hemophiliafed.org/our-role-and-programs/assisting-and-advocating/blood-sisterhood/)
 - Survey analysis for HFA’s Blood Sisterhood Program `cross-table` `PORC REPORT`
 
-`longitudinal`Incidence, progression and risk factors in eyes after Cataract Surgery
+`longitudinal` **Incidence, progression and risk factors in eyes after Cataract Surgery**
 - A retrospective chart review study
 - Longitudinal analysis `GLMM` `LMM` `Mixed-effects ordinal logistic regression model`
 
-`survey`Karen Health Literacy Study
+`survey` **Karen Health Literacy Study**
 - Survey analysis for Refugee Health Screener-15, develop a health literacy tool for the Karen refugees living in Buffalo `factor analysis`
 
-`survey`Spencer COVID Grant
+`survey` **Spencer COVID Grant**
 - Investigate an dialogue intervention for remote delivery that promotes positive social-emotional outcomes, intergroup relationships, and racial climate. `SAP` `power`
 
 ## 2019
-`survey`Vignette study about consensual nonmonogamy (paper under review)
+`survey` **Vignette study about consensual nonmonogamy (paper under review)**
 - A survey analysis on the influence of race on perceptions of sexual relationships: both hypothetical race and participants' race `GLMM`
 
-`survey`Vignette study about perceived sexual agency (paper under review)
+`survey` **Vignette study about perceived sexual agency (paper under review)**
 - A survey analysis on the perceptions of sexual types: *Agents, Virgins, Sluts and Losers*. `SAP` `LMM`
 
-`trial`[Interlock Study](https://www.research.buffalo.edu/portal/clinicaltrial/protocol/5155)
+`trial` **Interlock Study** [[link]](https://www.research.buffalo.edu/portal/clinicaltrial/protocol/5155)
 - Managing heavy drinking to avoid impaired driving: a study of interlock users`survey monkey` `Longitudinal study`
 
-`clinical trial`[Combined Therapy with Narrow-Band Ultraviolet B Phototherapy and Apremilast for the Treatment of Vitiligo](https://clinicaltrials.gov/ct2/show/study/NCT03123016)
+`clinical trial` **[Combined Therapy with Narrow-Band Ultraviolet B Phototherapy and Apremilast for the Treatment of Vitiligo]**(https://clinicaltrials.gov/ct2/show/study/NCT03123016)
 - A Split Body Study
 
 `clinical trial`[Aligning With Schools To Help Manage Asthma](https://clinicaltrials.gov/ct2/show/NCT03032744)

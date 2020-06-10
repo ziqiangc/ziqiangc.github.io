@@ -4,7 +4,7 @@
 - Survey analysis for HFA’s Blood Sisterhood Program `cross-table` `PORC REPORT`
 
 **Incidence, progression and risk factors in eyes after Cataract Surgery** <span style="background-color: #743144"> `logitudinal` </span>
-- A retrospective chart review study `GLMM` `LMM` `Mixed-effects ordinal logistic regression model`
+- A retrospective chart review study <code>`GLMM`</code> `LMM` `Mixed-effects ordinal logistic regression model`
 
 `survey` **Karen Health Literacy Study**
 - Survey analysis for Refugee Health Screener-15, develop a health literacy tool for the Karen refugees living in Buffalo `factor analysis`

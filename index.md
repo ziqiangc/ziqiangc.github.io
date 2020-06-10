@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="0.jpg">
 
-Hi! I am a 6th year Ph.D. student of Biostatistics at State University of New York at Buffalo.
+Hi! I am a Ph.D. candidate of Biostatistics at State University of New York at Buffalo.
 
 ## Education
 - Ph.D. in Biostatistics, University at Buffalo, *Expected 2020*

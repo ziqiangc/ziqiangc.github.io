@@ -13,12 +13,6 @@
 - Investigate an dialogue intervention for remote delivery that promotes positive social-emotional outcomes, intergroup relationships, and racial climate. `SAP` `power`
 
 ## 2019
-<span style="background-color: #ffbb78">`survey`</span> **Vignette study about consensual nonmonogamy (paper under review)**
-- A survey analysis on the influence of race on perceptions of sexual relationships: both hypothetical race and participants' race `GLMM`
-
-<span style="background-color: #ffbb78">`survey`</span> **Vignette study about perceived sexual agency (paper under review)**
-- A survey analysis on the perceptions of sexual types: *Agents, Virgins, Sluts and Losers*. `SAP` `LMM`
-
 <span style="background-color: #aec7e8">`clinical trial`</span> **Interlock Study** [[link]](https://www.research.buffalo.edu/portal/clinicaltrial/protocol/5155)
 - Managing heavy drinking to avoid impaired driving: a study of interlock users`survey monkey` `Longitudinal study`
 
@@ -33,7 +27,13 @@
 
 <span style="background-color: #c5b0d5">`prospective cohort`</span> **Determinants of Post Hemodialysis Blood pH** `LMM`
 
-<span style="background-color: #aec7e8">`clinical trial` [**Music Intervention for Agitation Reduction in the Pediatric Intensive Care Unit**](https://clinicaltrials.gov/ct2/show/NCT03453814)
+<span style="background-color: #ffbb78">`survey`</span> **Vignette study about consensual nonmonogamy (paper under review)**
+- A survey analysis on the influence of race on perceptions of sexual relationships: both hypothetical race and participants' race `GLMM`
+
+<span style="background-color: #ffbb78">`survey`</span> **Vignette study about perceived sexual agency (paper under review)**
+- A survey analysis on the perceptions of sexual types: *Agents, Virgins, Sluts and Losers*. `SAP` `LMM`
+
+<span style="background-color: #aec7e8">`clinical trial`</span> [**Music Intervention for Agitation Reduction in the Pediatric Intensive Care Unit**](https://clinicaltrials.gov/ct2/show/NCT03453814)
 
 <span style="background-color: #ff9896">`meta analysis`</span> [**Timing of the definitive procedure and ileostomy closure for total colonic aganglionosis HD**](https://doi.org/10.1016/j.jpedsurg.2020.02.007)
 

@@ -1,9 +1,9 @@
 # Collaborative Projects
 ## 2020 
-[**Blood Sisterhood Survey (CDC)**](https://www.hemophiliafed.org/our-role-and-programs/assisting-and-advocating/blood-sisterhood/) <span style="background-color: #aec7e8"> `survey` </span>
-- Survey analysis for HFA’s Blood Sisterhood Program `cross-table` `PORC REPORT`
+<span style="background-color: #ffbb78"> `survey` </span> [**Blood Sisterhood Survey (CDC)**](https://www.hemophiliafed.org/our-role-and-programs/assisting-and-advocating/blood-sisterhood/) 
+- Survey analysis for HFA’s Blood Sisterhood Program <span style="background-color: #c7c7c7"> `cross-table` `PORC REPORT` </span>
 
-**Incidence, progression and risk factors in eyes after Cataract Surgery** <span style="background-color: #c49c94"> `logitudinal` </span>
+<span style="background-color: #c5b0d5"> `longitudinal` </span> **Incidence, progression and risk factors in eyes after Cataract Surgery** 
 - A retrospective chart review study `GLMM` `LMM` `Mixed-effects ordinal logistic regression model`
 
 `survey` **Karen Health Literacy Study**

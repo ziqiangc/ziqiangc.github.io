@@ -9,17 +9,17 @@ layout: default
 Hi! I am a 6th year Ph.D. student of Biostatistics at State University of New York at Buffalo.
 
 ## Education
-- Ph.D. in Biostatistics, University at Buffalo, Expected 2020
-- M.A. in Biostatistics, University at Buffalo, Jul 2015
-- M.S. in Marine Biology, The Second Institute of Oceanography, Jul 2013
-- B.Sc. in Biological Science, Shandong University, Jul 2009
+- Ph.D. in Biostatistics, University at Buffalo, *Expected 2020*
+- M.A. in Biostatistics, University at Buffalo, *2015*
+- M.S. in Marine Biology, The Second Institute of Oceanography, *2013*
+- B.Sc. in Biological Science, Shandong University, *2009*
 
 
 ## Experence
-- Biostatistician, Intern, HTG Molecular Diagnostic, Inc. 
-- Research Assistant, School of Social Work, University at Buffalo.
-- Research Assistant, Clinical and Translational Science Institute, University at Buffalo.
-- Research Assistant, Department of Biostatistics, University at Buffalo.
+- Biostatistician, Intern, HTG Molecular Diagnostic, Inc. *Jan 2018 - Jan 2019*
+- Research Assistant, School of Social Work, University at Buffalo. *Jun 2019 - pres.*
+- Research Assistant, Clinical and Translational Science Institute, University at Buffalo. *Aug 2014 - pres.*
+- Research Assistant, Department of Biostatistics, University at Buffalo. *Jun 2014 - Jun 2016*
 
 ## [Projects](https://ziqiangc.github.io/projects)
 

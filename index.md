@@ -61,19 +61,7 @@ Oceanography</span>
  2016 | Perry Poster Day 2016 Winner  | Biostatistics, University at Buffalo                    
  2013 | Outstanding Graduate          | The Second Institute of Oceanography                    
  2009 | Outstanding Graduate          | Shandong University                                     
-<!---
-Here is a horizontal rule
 
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
 
 ## Service
 - Reviewer, *Emerging Infectious Diseases*

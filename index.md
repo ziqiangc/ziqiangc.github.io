@@ -42,6 +42,9 @@ survey data. *Survey Methodology*, 45(3), 465-484.
 - **Chen, Z.**, Wilding, G. E. (2020). Unconditional exact tests based on multiple comparisons for Poisson rate. 
 - **Chen, Z.**, Wilding, G. E. (2020). ROC analysis for multistage diagnostic testing procedures in the presence of intermediate results.
 
+## Service
+- Reviewer, *Emerging Infectious Diseases*
+
 ## Honors and Awards
 <!---
 <span>Best Young Researchers’ Award, The Upstate Chapter of American
@@ -54,14 +57,13 @@ Buffalo</span>
 Oceanography</span>  
 <span>Outstanding Graduate, Shandong University</span>
 --->
- Year | Award                         | Organization                                            
-------|-------------------------------|---------------------------------------------------------
- 2017 | Best Young Researchers' Award | The Upstate Chapter of American Statistical Association 
- 2017 | Poster of Distinction         | University at Buffalo                                   
- 2016 | Perry Poster Day 2016 Winner  | Biostatistics, University at Buffalo                    
- 2013 | Outstanding Graduate          | The Second Institute of Oceanography                    
- 2009 | Outstanding Graduate          | Shandong University                                     
+
+Year | Award                         | Organization                                            
+-----|-------------------------------|---------------------------------------------------------
+2017 | Best Young Researchers' Award | The Upstate Chapter of American Statistical Association 
+2017 | Poster of Distinction         | University at Buffalo                                   
+2016 | Perry Poster Day 2016 Winner  | Biostatistics, University at Buffalo                    
+2013 | Outstanding Graduate          | The Second Institute of Oceanography                    
+2009 | Outstanding Graduate          | Shandong University                                     
 
 
-## Service
-- Reviewer, *Emerging Infectious Diseases*

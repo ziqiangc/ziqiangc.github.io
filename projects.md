@@ -1,15 +1,9 @@
-```diff
-- red
-+ green
-! orange
-# gray
-```
 # Collaborative Projects
 ## 2020 
 <mark> `survey` </mark>[**Blood Sisterhood Survey (CDC)**](https://www.hemophiliafed.org/our-role-and-programs/assisting-and-advocating/blood-sisterhood/)
 - Survey analysis for HFA’s Blood Sisterhood Program `cross-table` `PORC REPORT`
 
--`longitudinal`- **Incidence, progression and risk factors in eyes after Cataract Surgery**
+**Incidence, progression and risk factors in eyes after Cataract Surgery** <span style="background-color: #FFFF00"> `logitudinal` </span>
 - A retrospective chart review study `GLMM` `LMM` `Mixed-effects ordinal logistic regression model`
 
 `survey` **Karen Health Literacy Study**

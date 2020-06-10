@@ -23,7 +23,7 @@
 - Managing heavy drinking to avoid impaired driving: a study of interlock users`survey monkey` `Longitudinal study`
 
 `clinical trial` [**Combined Therapy with Narrow-Band Ultraviolet B Phototherapy and Apremilast for the Treatment of Vitiligo**](https://clinicaltrials.gov/ct2/show/study/NCT03123016)
-- A Split Body Study
+- A single group assignment split body study
 
 `clinical trial` [**Aligning With Schools To Help Manage Asthma**](https://clinicaltrials.gov/ct2/show/NCT03032744)
 - A Randomized Pilot study to Improve Asthma Care Among Poor and Minority Children through School-based Health Centers

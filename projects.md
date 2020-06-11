@@ -17,7 +17,7 @@
 - Managing heavy drinking to avoid impaired driving: a study of interlock users <span style="background-color: #c7c7c7">`longitudinal`</span>
 
 <span style="background-color: #aec7e8">`clinical trial`</span> [**Combined Therapy with Narrow-Band Ultraviolet B Phototherapy and Apremilast for the Treatment of Vitiligo**](https://clinicaltrials.gov/ct2/show/study/NCT03123016)
-- A single group assignment split body study <span style="background-color: #c7c7c7">`McNemar's test`</span> <span style="background-color: #c7c7c7">`ICC`</span> 
+- A single group assignment split body study <span style="background-color: #c7c7c7">`McNemar test`</span> <span style="background-color: #c7c7c7">`ICC`</span> 
 
 <span style="background-color: #aec7e8">`clinical trial`</span> [**Aligning With Schools To Help Manage Asthma (paper under review)**](https://clinicaltrials.gov/ct2/show/NCT03032744)
 - A Randomized Pilot study to Improve Asthma Care Among Poor and Minority Children through School-based Health Centers <span style="background-color: #c7c7c7">`LMM`</span> <span style="background-color: #c7c7c7">`exact wilcoxon`</span>

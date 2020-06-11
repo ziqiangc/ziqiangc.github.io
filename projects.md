@@ -111,7 +111,7 @@
 
 ## 2014
 
-<span style="background-color: #dbdb8d">`cross-sectional`</span> [**Language impairment for bilingual**](https://doi.org/10.1017/S0142716415000521)  <span style="background-color: #c7c7c7">`GLMM`</span> <span style="background-color: #c7c7c7">`parametric bootstrap`</span> <span style="background-color: #c7c7c7">`model selection`</span>  
+<span style="background-color: #dbdb8d">`cross-sectional`</span> [**Language impairment for bilingual**](https://doi.org/10.1017/S0142716415000521)  <span style="background-color: #c7c7c7">`GLMM`</span> <span style="background-color: #c7c7c7">`GLM`</span> <span style="background-color: #c7c7c7">`parametric bootstrap`</span> <span style="background-color: #c7c7c7">`model selection`</span>  
 
 <span style="background-color: #dbdb8d">`cross-sectional`</span> [**The complexity of the Spanish subjunctive in bilingual children**](https://dx.doi.org/10.1080%2F10489223.2016.1192636)
 - Investigates the use of the Spanish subjunctive in bilingual children with and without specific language impairments <span style="background-color: #c7c7c7">`GLM`</span>

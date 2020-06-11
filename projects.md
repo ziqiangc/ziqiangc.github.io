@@ -102,7 +102,7 @@
 
 <span style="background-color: #c5b0d5">`time series`</span> need to fill in
 
-<span style="background-color: #ff9896">`meta analysis`</span> [**Screening for Vitamin D Deficiency in elderly population**]
+<span style="background-color: #ff9896">`meta analysis`</span> **Screening for Vitamin D Deficiency in elderly population**
 
 <span style="background-color: #c49c94">`descriptive`</span> **Balanced salt solution (BSS) as a new surrogate marker for the development of ophthalmic surgeons**
 
@@ -111,7 +111,8 @@
 
 ## 2014
 
-<span style="background-color: #dbdb8d">`cross-sectional`</span> [**Language impairment for bilingual**](https://doi.org/10.1017/S0142716415000521)  <span style="background-color: #c7c7c7">`GLMM`</span> <span style="background-color: #c7c7c7">`GLM`</span> <span style="background-color: #c7c7c7">`parametric bootstrap`</span> <span style="background-color: #c7c7c7">`model selection`</span>  
+<span style="background-color: #dbdb8d">`cross-sectional`</span> [**Language impairment for bilingual**](https://doi.org/10.1017/S0142716415000521) 
+- Examines the interaction between language impairment and different levels of bilingual proficiency <span style="background-color: #c7c7c7">`GLMM`</span> <span style="background-color: #c7c7c7">`GLM`</span> <span style="background-color: #c7c7c7">`model selection`</span>  
 
 <span style="background-color: #dbdb8d">`cross-sectional`</span> [**The complexity of the Spanish subjunctive in bilingual children**](https://dx.doi.org/10.1080%2F10489223.2016.1192636)
 - Investigates the use of the Spanish subjunctive in bilingual children with and without specific language impairments <span style="background-color: #c7c7c7">`GLM`</span>
@@ -122,7 +123,8 @@
 <span style="background-color: #ffbb78">`survey`</span> **Hand surgical treatment choice** 
 - The association between surgical treatment choice and demographic characteristics, anesthesia type used, use of antibiotics, or use of tourniquet
 
-<span style="background-color: #dbdb8d">`cross-sectional`</span> **Primary Care to Type II Diabetes patient by Nurse Practitioners** <span style="background-color: #c7c7c7">`Cochran-Armatage`</span>
+<span style="background-color: #dbdb8d">`cross-sectional`</span> **Primary Care to Type II Diabetes patient by Nurse Practitioners** 
+- Examines Nurse Practitioners compliance to diabetic management guidelines and correlation of such to patient outcomes <span style="background-color: #c7c7c7">`Cochran-Armatage`</span>
 
 
 ---

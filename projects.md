@@ -45,6 +45,7 @@
 - A human specific fusion gene, accounts for the translational gap for cholinergic strategies in Alzheimer’s disease <span style="background-color: #c7c7c7">`AR1 LMM`</span>
 
 <span style="background-color: #ffbb78">`survey`</span> **Grit and Resilience (Personality Traits) in Burnout among Medical Students in Buffalo area**
+- Investigates grit (continued fortitude in the face of hardship) and resilience (ability to recover from a setback) and their relationship to burnout (emotional exhaustion caused by prolonged stress or frustration).
 
 ## 2018
 

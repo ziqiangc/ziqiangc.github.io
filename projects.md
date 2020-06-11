@@ -53,14 +53,14 @@
 
 ## 2017
 
-<span style="background-color: #dbdb8d">`cross-sectional`</span> [**Salivary metals, age, and gender correlate with cultivable oral Candida carriage levels**](https://doi.org/10.1080/20002297.2018.1447216) `ZINB` `LoD`
+<span style="background-color: #dbdb8d">`cross-sectional`</span> [**Salivary metals, age, and gender correlate with cultivable oral Candida carriage levels**](https://doi.org/10.1080/20002297.2018.1447216) <span style="background-color: #c7c7c7">`ZINB`</span> <span style="background-color: #c7c7c7">`LoD`</span>
 
-<span style="background-color: #dbdb8d">`cross-sectional`</span> **Revised Trauma Score using Shock Index, Peripheral Oxygen Saturation: Data from National Trauma Databank** `ROC`
+<span style="background-color: #dbdb8d">`cross-sectional`</span> **Revised Trauma Score using Shock Index, Peripheral Oxygen Saturation: Data from National Trauma Databank** <span style="background-color: #c7c7c7">`ROC`</span>
 
-<span style="background-color: #c49c94">`agreement`</span> **Comparison of 3 electronic apex locators: Root ZX, Apex ID and CanalPro** `Bland-Altman plots` `Bradley-Blackwood test` `ICC`
+<span style="background-color: #c49c94">`agreement`</span> **Comparison of 3 electronic apex locators: Root ZX, Apex ID and CanalPro** <span style="background-color: #c7c7c7">`Bradley-Blackwood test`</span> <span style="background-color: #c7c7c7">`ICC`</span>
 
 <span style="background-color: #c5b0d5">`retrospective cohort`</span> **Comparing iohexol and iodixanol in Nephropathy Study**
-- To compare the incidence of kidney damage between two contrast agents: iohexol and iodixanol `logistic regression` `propensity scores`
+- To compare the incidence of kidney damage between two contrast agents: iohexol and iodixanol <span style="background-color: #c7c7c7">`logistic regression`</span> <span style="background-color: #c7c7c7">`LASSO`</span> <span style="background-color: #c7c7c7">`propensity scores`</span>
 
 <span style="background-color: #9edae5">`preclinical`</span> [**Immunization study for a candidate vaccine antigen against *Moraxella catarrhalis***](https://doi.org/10.1128/IAI.00652-17)
 
@@ -70,19 +70,19 @@
 <span style="background-color: #f7b6d2">`experimental design`</span> **Permutated block randomization for a pilot study of child asthma among different healthcenter**
 
 <span style="background-color: #c5b0d5">`retrospective cohort`</span> [**Minimally Invasive Surgery in Trauma (Data from National Trauma Data Bank)**](https://doi.org/10.1089/lap.2019.0322)
-- To examine pediatric patients who underwent exploration for blunt or penetrating abdominal trauma in 2014 and 2015
+- To examine pediatric patients who underwent exploration for blunt or penetrating abdominal trauma in 2014 and 2015 <span style="background-color: #c7c7c7">`logistic regression`</span> <span style="background-color: #c7c7c7">`generalized Fisher`</span>
 
 
 ## 2016
 <span style="background-color: #98df8a">`bioinformatics`</span> **RNA-Seq analysis in patients with traumatic brain injury**
-- To investigate the differential expression of RNA with a trend of Neurobehavioral Severity Scale (NSS) `Jonckheere's test`
+- To investigate the differential expression of RNA with a trend of Neurobehavioral Severity Scale (NSS) <span style="background-color: #c7c7c7">`Jonckheere test`</span> <span style="background-color: #c7c7c7">`heatmap`</span>
 
-<span style="background-color: #98df8a">`bioinformatics`</span> [**Analysis of the Source of Autoreactive IgM in Sjögren’s Syndrome**](https://dx.doi.org/10.1189%2Fjlb.2A0715-297R) `heatmap`
+<span style="background-color: #98df8a">`bioinformatics`</span> [**Analysis of the Source of Autoreactive IgM in Sjögren’s Syndrome**](https://dx.doi.org/10.1189%2Fjlb.2A0715-297R) <span style="background-color: #c7c7c7">`heatmap`</span>
 
 <span style="background-color: #c5b0d5">`time series`</span> [**Highly Sensitive and Portable Surface Plasmon Resonance System for Lung Cancer Early Detection**](http://www.buffalo.edu/ctsi/ctsi-news.host.html/content/shared/www/ctsi/articles/academic_articles/low-cost-portable-biosensor-system-may-boost-early-detection-of-lung-cancer.detail.html)
 
-<span style="background-color: #dbdb8d">`cross-sectional`</span> ***Streptococcus Pneumoniae* Colonization in Chronic Obstructive Pulmonary Disease**
-- A observational study to investigate epidemiologic factors that determine the pneumococcal burden (carriage) in the airway in COPD `GLMM`
+<span style="background-color: #dbdb8d">`cross-sectional`</span> ***Streptococcus Pneumoniae* Colonization in Chronic Obstructive Pulmonary Disease (UB research day award)**
+- A observational study to investigate epidemiologic factors that determine the pneumococcal burden (carriage) in the airway in COPD <span style="background-color: #c7c7c7">`GLMM`</span>
 
 <span style="background-color: #ffbb78">`survey`</span> **GOBike Buffalo**
 - Assessing the Impact of the Complete Streets Initiatives in Medium-to-Large Municipalities
@@ -100,23 +100,26 @@
 
 <span style="background-color: #98df8a">`bioinformatics`</span> <span style="background-color: #c49c94">`shinyapp`</span> [**Autoantigen arrays (GenePix) custom normalization and full analysis**](https://ziqiangc.shinyapps.io/quickplot2)
 
-<span style="background-color: #c5b0d5">`time series`</span> Primary care
+<span style="background-color: #c5b0d5">`time series`</span> need to fill in
 
-<span style="background-color: #c49c94">`descriptive`</span> **Markers for the Development of Ophthalmic Surgeons**
+<span style="background-color: #c49c94">`descriptive`</span> **Balanced salt solution (BSS) as a new surrogate marker for the development of ophthalmic surgeons**
 
 <span style="background-color: #aec7e8">`clinical trial`</span> [**Resistive Respiratory Muscle Training (RRMT) on multiple sclerosis patients**](https://cmsc.confex.com/cmsc/2015/webprogram/Paper3725.html)
 - A pre-post design to determine the effects of 6 weeks of RRMT on respiratory muscle strength, exercise endurance and fatigue.
 
 ## 2014
 
-<span style="background-color: #dbdb8d">`cross-sectional`</span> [**Language impairment for bilingual**](https://doi.org/10.1017/S0142716415000521)  `GLMM` `parametric bootstrap` ` model selection` 
+<span style="background-color: #dbdb8d">`cross-sectional`</span> [**Language impairment for bilingual**](https://doi.org/10.1017/S0142716415000521)  <span style="background-color: #c7c7c7">`GLMM`</span> <span style="background-color: #c7c7c7">`parametric bootstrap`</span> <span style="background-color: #c7c7c7">`model selection`</span>  
 
-<span style="background-color: #dbdb8d">`cross-sectional`</span> [**Use of the Spanish subjunctive in bilingual children**](https://dx.doi.org/10.1080%2F10489223.2016.1192636)
+<span style="background-color: #dbdb8d">`cross-sectional`</span> [**Use of the Spanish subjunctive in bilingual children**](https://dx.doi.org/10.1080%2F10489223.2016.1192636) <span style="background-color: #c7c7c7">`GLMM`</span>
 
 <span style="background-color: #dbdb8d">`cross-sectional`</span> **Using the QuickDASH and Visual Analog Scale Pain Score in a Hand Surgery Private Practice**
-- Functional relationship between QuickDASH and VAS pain scores within and across diagnosis groups `Jonkheere’s trend` `ANOVA`
+- Functional relationship between QuickDASH and VAS pain scores within and across diagnosis groups <span style="background-color: #c7c7c7">`Jonkheere test`</span>
 
 <span style="background-color: #ffbb78">`survey`</span> **Hand surgical treatment choice** 
-- The association between surgical treatment choice and demographic characteristics, anesthesia type used, use of antibiotics, or use of tourniquet `SurveyMonkey` 
+- The association between surgical treatment choice and demographic characteristics, anesthesia type used, use of antibiotics, or use of tourniquet
 
-<span style="background-color: #dbdb8d">`cross-sectional`</span> **Primary Care to Type II Diabetes patient by Nurse Practitioners** `Cochran-Armatage Trend`
+<span style="background-color: #dbdb8d">`cross-sectional`</span> **Primary Care to Type II Diabetes patient by Nurse Practitioners** <span style="background-color: #c7c7c7">`Cochran-Armatage test`</span>
+
+
+---

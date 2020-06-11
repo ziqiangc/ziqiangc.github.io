@@ -13,42 +13,43 @@
 - Investigate an dialogue intervention for remote delivery that promotes positive social-emotional outcomes, intergroup relationships, and racial climate. <span style="background-color: #c7c7c7">`SAP`</span> <span style="background-color: #c7c7c7">`power`</span>  
 
 ## 2019
-<span style="background-color: #aec7e8">`clinical trial`</span> [**Interlock Study**](https://www.research.buffalo.edu/portal/clinicaltrial/protocol/5155)
-- Managing heavy drinking to avoid impaired driving: a study of interlock users `survey monkey` `longitudinal`
+<span style="background-color: #aec7e8">`clinical trial`</span> [**Drinking and Driving Interlock Study**](https://www.research.buffalo.edu/portal/clinicaltrial/protocol/5155)
+- Managing heavy drinking to avoid impaired driving: a study of interlock users <span style="background-color: #c7c7c7">`survey monkey`</span> <span style="background-color: #c7c7c7">`longitudinal`</span>
 
 <span style="background-color: #aec7e8">`clinical trial`</span> [**Combined Therapy with Narrow-Band Ultraviolet B Phototherapy and Apremilast for the Treatment of Vitiligo**](https://clinicaltrials.gov/ct2/show/study/NCT03123016)
-- A single group assignment split body study
+- A single group assignment split body study <span style="background-color: #c7c7c7">`McNemar's test`</span> <span style="background-color: #c7c7c7">`ICC`</span> 
 
-<span style="background-color: #aec7e8">`clinical trial`</span> [**Aligning With Schools To Help Manage Asthma**](https://clinicaltrials.gov/ct2/show/NCT03032744)
-- A Randomized Pilot study to Improve Asthma Care Among Poor and Minority Children through School-based Health Centers
+<span style="background-color: #aec7e8">`clinical trial`</span> [**Aligning With Schools To Help Manage Asthma (paper under review)**](https://clinicaltrials.gov/ct2/show/NCT03032744)
+- A Randomized Pilot study to Improve Asthma Care Among Poor and Minority Children through School-based Health Centers <span style="background-color: #c7c7c7">`LMM`</span> <span style="background-color: #c7c7c7">`exact wilcoxon`</span>
 
-<span style="background-color: #9edae5">`preclinical`</span> **T3np in cardiac resuscitation in male pig**
-- Effect of different treatment on male pig in terms of cardiac resuscitation `Permuted Block Randomization` `Exact Wilcoxon`
+<span style="background-color: #9edae5">`preclinical`</span> **T3np in Cardiac Resuscitation – Pivotal Pre-Clinical Trial**
+- Effect of different treatment on male pig in terms of cardiac resuscitation <span style="background-color: #c7c7c7">`Permuted Block Randomization`</span> <span style="background-color: #c7c7c7">`exact wilcoxon`</span>
 
-<span style="background-color: #c5b0d5">`prospective cohort`</span> **Determinants of Post Hemodialysis Blood pH** `LMM`
+<span style="background-color: #c5b0d5">`prospective cohort`</span> **Determinants of Post Hemodialysis Blood pH**
+- A prospective trial to identify patient and dialysate factors that determine post dialysis blood pH <span style="background-color: #c7c7c7">`LMM`</span>
 
 <span style="background-color: #ffbb78">`survey`</span> **Vignette study about consensual nonmonogamy (paper under review)**
-- A survey analysis on the influence of race on perceptions of sexual relationships: both hypothetical race and participants' race `GLMM`
+- A survey analysis on the influence of race on perceptions of sexual relationships: both hypothetical race and participants' race <span style="background-color: #c7c7c7">`GLMM`</span>
 
 <span style="background-color: #ffbb78">`survey`</span> **Vignette study about perceived sexual agency (paper under review)**
-- A survey analysis on the perceptions of sexual types: *Agents, Virgins, Sluts and Losers*. `SAP` `LMM`
+- A survey analysis on the perceptions of sexual types: *Agents, Virgins, Sluts and Losers*. <span style="background-color: #c7c7c7">`SAP`</span> <span style="background-color: #c7c7c7">`LMM`</span>
 
 <span style="background-color: #aec7e8">`clinical trial`</span> [**Music Intervention for Agitation Reduction in the Pediatric Intensive Care Unit**](https://clinicaltrials.gov/ct2/show/NCT03453814)
 
 <span style="background-color: #ff9896">`meta analysis`</span> [**Timing of the definitive procedure and ileostomy closure for total colonic aganglionosis HD**](https://doi.org/10.1016/j.jpedsurg.2020.02.007)
 
 <span style="background-color: #c5b0d5">`retrospective cohort`</span> **Predictive Model for Operative Intervention following Blunt Abdominal Trauma in Children** 
-- Study the clinical and radiologic factors predicting the need for surgical intervention following blunt abdominal trauma `ROC` `logistic regression`
+- Study the clinical and radiologic factors predicting the need for surgical intervention following blunt abdominal trauma <span style="background-color: #c7c7c7">`ROC`</span> <span style="background-color: #c7c7c7">`logistic regression`</span>
 
-<span style="background-color: #c5b0d5">`longitudinal`</span> <span style="background-color: #9edae5">`animial experiment`</span> **Disease modifying effect in Alzheimer’s disease with cholinesterase inhibitors**
-- A human specific fusion gene, accounts for the translational gap for cholinergic strategies in Alzheimer’s disease
+<span style="background-color: #c5b0d5">`longitudinal`</span> <span style="background-color: #9edae5">`animial experiment`</span> **Disease modifying effect in Alzheimer’s disease with cholinesterase inhibitors (paper in press)**
+- A human specific fusion gene, accounts for the translational gap for cholinergic strategies in Alzheimer’s disease <span style="background-color: #c7c7c7">`autoregressive LMM`</span>
 
 <span style="background-color: #ffbb78">`survey`</span> **Grit and Resilience (Personality Traits) in Burnout among Medical Students in Buffalo area**
 
 ## 2018
 
 <span style="background-color: #c5b0d5">`retrospective cohort`</span> [**Percutaneous vs. Open Access for Extracorporeal Membrane Oxygenation in Pediatric Respiratory Failure**](https://doi.org/10.1097/PCC.0000000000001691)
-- Evaluate trends in method of access (percutaneous vs. open cannulation) for pediatric extracorporeal membrane oxygenation (ECMO), and determine the effects of cannulation method on morbidity and mortality.
+- Evaluate trends in method of access (percutaneous vs. open cannulation) for pediatric extracorporeal membrane oxygenation (ECMO), and determine the effects of cannulation method on morbidity and mortality. <span style="background-color: #c7c7c7">`Cochrane-Armitage test`</span> <span style="background-color: #c7c7c7">`logistic regression`</span>
 
 ## 2017
 

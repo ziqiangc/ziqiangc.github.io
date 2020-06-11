@@ -92,12 +92,12 @@
 
 ## 2015
 
-<span style="background-color: #f7b6d2">`power`</span> **Air pollution and emergency department visits for asthma in Erie County, 2007-2012**
+<span style="background-color: #f7b6d2">`power`</span> [**Air pollution and emergency department visits for asthma in Erie County, 2007-2012**](https://doi.org/10.1007/s00420-017-1270-7)
 - Simulation power analsyis for PM2.5 vs. lung function
 
 <span style="background-color: #c5b0d5">`time series`</span> **Imputation of missing data in time series for air pollutants**
 
-<span style="background-color: #98df8a">`bioinformatics`</span> [**Autoantigen arrays (GenePix) custom normalization and full analysis**](https://ziqiangc.shinyapps.io/quickplot2)`shinyapp`
+<span style="background-color: #98df8a">`bioinformatics`</span> <span style="background-color: #c49c94">`shinyapp`</span> [**Autoantigen arrays (GenePix) custom normalization and full analysis**](https://ziqiangc.shinyapps.io/quickplot2)
 
 <span style="background-color: #c5b0d5">`time series`</span> Primary care
 

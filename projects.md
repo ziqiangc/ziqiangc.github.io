@@ -20,7 +20,7 @@
 - A single group assignment split body study <span style="background-color: #c7c7c7">`McNemar test`</span> <span style="background-color: #c7c7c7">`ICC`</span> 
 
 <span style="background-color: #aec7e8">`clinical trial`</span> [**Aligning With Schools To Help Manage Asthma (paper under review)**](https://clinicaltrials.gov/ct2/show/NCT03032744)
-- A Randomized Pilot study to Improve Asthma Care Among Poor and Minority Children through School-based Health Centers <span style="background-color: #c7c7c7">`LMM`</span> <span style="background-color: #c7c7c7">`exact wilcoxon`</span>
+- A randomized pilot study to improve asthma care among poor and minority children through school-based health centers <span style="background-color: #c7c7c7">`LMM`</span> <span style="background-color: #c7c7c7">`exact wilcoxon`</span>
 
 <span style="background-color: #9edae5">`preclinical`</span> **T3np in Cardiac Resuscitation – Pivotal Pre-Clinical Trial**
 - Effect of different treatment on male pig in terms of cardiac resuscitation <span style="background-color: #c7c7c7">`Permuted Block Randomization`</span> <span style="background-color: #c7c7c7">`exact wilcoxon`</span>
@@ -42,7 +42,7 @@
 - Study the clinical and radiologic factors predicting the need for surgical intervention following blunt abdominal trauma <span style="background-color: #c7c7c7">`ROC`</span> <span style="background-color: #c7c7c7">`logistic regression`</span>
 
 <span style="background-color: #c5b0d5">`longitudinal`</span> <span style="background-color: #9edae5">`animial experiment`</span> **Disease modifying effect in Alzheimer’s disease with cholinesterase inhibitors (paper in press)**
-- A human specific fusion gene, accounts for the translational gap for cholinergic strategies in Alzheimer’s disease <span style="background-color: #c7c7c7">`autoregressive LMM`</span>
+- A human specific fusion gene, accounts for the translational gap for cholinergic strategies in Alzheimer’s disease <span style="background-color: #c7c7c7">`AR1 LMM`</span>
 
 <span style="background-color: #ffbb78">`survey`</span> **Grit and Resilience (Personality Traits) in Burnout among Medical Students in Buffalo area**
 

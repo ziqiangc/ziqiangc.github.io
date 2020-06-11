@@ -14,7 +14,7 @@
 
 ## 2019
 <span style="background-color: #aec7e8">`clinical trial`</span> [**Drinking and Driving Interlock Study**](https://www.research.buffalo.edu/portal/clinicaltrial/protocol/5155)
-- Managing heavy drinking to avoid impaired driving: a study of interlock users <span style="background-color: #c7c7c7">`survey monkey`</span> <span style="background-color: #c7c7c7">`longitudinal`</span>
+- Managing heavy drinking to avoid impaired driving: a study of interlock users <span style="background-color: #c7c7c7">`longitudinal`</span>
 
 <span style="background-color: #aec7e8">`clinical trial`</span> [**Combined Therapy with Narrow-Band Ultraviolet B Phototherapy and Apremilast for the Treatment of Vitiligo**](https://clinicaltrials.gov/ct2/show/study/NCT03123016)
 - A single group assignment split body study <span style="background-color: #c7c7c7">`McNemar's test`</span> <span style="background-color: #c7c7c7">`ICC`</span> 

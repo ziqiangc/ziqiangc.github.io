@@ -57,7 +57,7 @@
 <span style="background-color: #dbdb8d">`cross-sectional`</span> [**Salivary metals, age, and gender correlate with cultivable oral Candida carriage levels**](https://doi.org/10.1080/20002297.2018.1447216) 
 - Investigate the normal range of metal levels in unstimulated saliva and their impact Candida carriage in healthy individuals. <span style="background-color: #c7c7c7">`ZINB`</span> <span style="background-color: #c7c7c7">`LoD`</span>
 
-<span style="background-color: #dbdb8d">`retrospective`</span> [**Revised Trauma Score using Shock Index, Peripheral Oxygen Saturation: Data from National Trauma Databank**](https://doi.org/10.1016/j.surg.2019.12.003)
+<span style="background-color: #c5b0d5">`retrospective`</span> [**Revised Trauma Score using Shock Index, Peripheral Oxygen Saturation: Data from National Trauma Databank**](https://doi.org/10.1016/j.surg.2019.12.003)
 - A retrospective database analysis using children and adults from the National Trauma Data Bank (2011-2015) to improve Revised Trauma Score.<span style="background-color: #c7c7c7">`ROC`</span>
 
 <span style="background-color: #c49c94">`agreement`</span> **Comparison of 3 electronic apex locators: Root ZX, Apex ID and CanalPro** <span style="background-color: #c7c7c7">`Bradley-Blackwood`</span> <span style="background-color: #c7c7c7">`ICC`</span>

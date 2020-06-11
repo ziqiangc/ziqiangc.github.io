@@ -39,7 +39,7 @@
 <span style="background-color: #ff9896">`meta analysis`</span> [**Timing of the definitive procedure and ileostomy closure for total colonic aganglionosis HD**](https://doi.org/10.1016/j.jpedsurg.2020.02.007)
 
 <span style="background-color: #c5b0d5">`retrospective cohort`</span> **Predictive Model for Operative Intervention following Blunt Abdominal Trauma in Children** 
-- Study the clinical and radiologic factors predicting the need for surgical intervention following blunt abdominal trauma <span style="background-color: #c7c7c7">`ROC`</span> <span style="background-color: #c7c7c7">`logistic regression`</span>
+- Study the clinical and radiologic factors predicting the need for surgical intervention following blunt abdominal trauma <span style="background-color: #c7c7c7">`ROC`</span> <span style="background-color: #c7c7c7">`GLM`</span>
 
 <span style="background-color: #c5b0d5">`longitudinal`</span> <span style="background-color: #9edae5">`animial experiment`</span> **Disease modifying effect in Alzheimer’s disease with cholinesterase inhibitors (paper in press)**
 - A human specific fusion gene, accounts for the translational gap for cholinergic strategies in Alzheimer’s disease <span style="background-color: #c7c7c7">`AR1 LMM`</span>
@@ -49,7 +49,7 @@
 ## 2018
 
 <span style="background-color: #c5b0d5">`retrospective cohort`</span> [**Percutaneous vs. Open Access for Extracorporeal Membrane Oxygenation in Pediatric Respiratory Failure**](https://doi.org/10.1097/PCC.0000000000001691)
-- Evaluate trends in method of access (percutaneous vs. open cannulation) for pediatric extracorporeal membrane oxygenation (ECMO), and determine the effects of cannulation method on morbidity and mortality. <span style="background-color: #c7c7c7">`Cochrane-Armitage`</span> <span style="background-color: #c7c7c7">`logistic regression`</span>
+- Evaluate trends in method of access (percutaneous vs. open cannulation) for pediatric extracorporeal membrane oxygenation (ECMO), and determine the effects of cannulation method on morbidity and mortality. <span style="background-color: #c7c7c7">`Cochrane-Armitage`</span> <span style="background-color: #c7c7c7">`GLM`</span>
 
 ## 2017
 
@@ -60,7 +60,7 @@
 <span style="background-color: #c49c94">`agreement`</span> **Comparison of 3 electronic apex locators: Root ZX, Apex ID and CanalPro** <span style="background-color: #c7c7c7">`Bradley-Blackwood`</span> <span style="background-color: #c7c7c7">`ICC`</span>
 
 <span style="background-color: #c5b0d5">`retrospective cohort`</span> **Comparing iohexol and iodixanol in Nephropathy Study**
-- To compare the incidence of kidney damage between two contrast agents: iohexol and iodixanol <span style="background-color: #c7c7c7">`logistic regression`</span> <span style="background-color: #c7c7c7">`LASSO`</span> <span style="background-color: #c7c7c7">`propensity scores`</span>
+- To compare the incidence of kidney damage between two contrast agents: iohexol and iodixanol <span style="background-color: #c7c7c7">`GLM`</span> <span style="background-color: #c7c7c7">`LASSO`</span> <span style="background-color: #c7c7c7">`propensity scores`</span>
 
 <span style="background-color: #9edae5">`preclinical`</span> [**Immunization study for a candidate vaccine antigen against *Moraxella catarrhalis***](https://doi.org/10.1128/IAI.00652-17)
 
@@ -70,7 +70,7 @@
 <span style="background-color: #f7b6d2">`experimental design`</span> **Permutated block randomization for a pilot study of child asthma among different healthcenter**
 
 <span style="background-color: #c5b0d5">`retrospective cohort`</span> [**Minimally Invasive Surgery in Trauma (Data from National Trauma Data Bank)**](https://doi.org/10.1089/lap.2019.0322)
-- To examine pediatric patients who underwent exploration for blunt or penetrating abdominal trauma in 2014 and 2015 <span style="background-color: #c7c7c7">`logistic regression`</span> <span style="background-color: #c7c7c7">`generalized Fisher`</span>
+- To examine pediatric patients who underwent exploration for blunt or penetrating abdominal trauma in 2014 and 2015 <span style="background-color: #c7c7c7">`GLM`</span> <span style="background-color: #c7c7c7">`generalized Fisher`</span>
 
 
 ## 2016
@@ -113,7 +113,8 @@
 
 <span style="background-color: #dbdb8d">`cross-sectional`</span> [**Language impairment for bilingual**](https://doi.org/10.1017/S0142716415000521)  <span style="background-color: #c7c7c7">`GLMM`</span> <span style="background-color: #c7c7c7">`parametric bootstrap`</span> <span style="background-color: #c7c7c7">`model selection`</span>  
 
-<span style="background-color: #dbdb8d">`cross-sectional`</span> [**Use of the Spanish subjunctive in bilingual children**](https://dx.doi.org/10.1080%2F10489223.2016.1192636) <span style="background-color: #c7c7c7">`GLMM`</span>
+<span style="background-color: #dbdb8d">`cross-sectional`</span> [**The complexity of the Spanish subjunctive in bilingual children**](https://dx.doi.org/10.1080%2F10489223.2016.1192636)
+- Investigates the use of the Spanish subjunctive in bilingual children with and without specific language impairments <span style="background-color: #c7c7c7">`GLM`</span>
 
 <span style="background-color: #dbdb8d">`cross-sectional`</span> **Using the QuickDASH and Visual Analog Scale Pain Score in a Hand Surgery Private Practice**
 - Functional relationship between QuickDASH and VAS pain scores within and across diagnosis groups <span style="background-color: #c7c7c7">`Jonkheere`</span>

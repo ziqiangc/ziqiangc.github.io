@@ -25,7 +25,7 @@
 <span style="background-color: #9edae5">`preclinical`</span> **T3np in Cardiac Resuscitation – Pivotal Pre-Clinical Trial**
 - Effect of different treatment on male pig in terms of cardiac resuscitation <span style="background-color: #c7c7c7">`Permuted Block Randomization`</span> <span style="background-color: #c7c7c7">`exact wilcoxon`</span>
 
-<span style="background-color: #c5b0d5">`prospective cohort`</span> **Determinants of Post Hemodialysis Blood pH**
+<span style="background-color: #c5b0d5">`prospective`</span> **Determinants of Post Hemodialysis Blood pH**
 - A prospective trial to identify patient and dialysate factors that determine post dialysis blood pH <span style="background-color: #c7c7c7">`LMM`</span>
 
 <span style="background-color: #ffbb78">`survey`</span> **Vignette study about consensual nonmonogamy (paper under review)**
@@ -38,7 +38,7 @@
 
 <span style="background-color: #ff9896">`meta analysis`</span> [**Timing of the definitive procedure and ileostomy closure for total colonic aganglionosis HD**](https://doi.org/10.1016/j.jpedsurg.2020.02.007)
 
-<span style="background-color: #c5b0d5">`retrospective cohort`</span> **Predictive Model for Operative Intervention following Blunt Abdominal Trauma in Children** 
+<span style="background-color: #c5b0d5">`retrospective`</span> **Predictive Model for Operative Intervention following Blunt Abdominal Trauma in Children** 
 - Study the clinical and radiologic factors predicting the need for surgical intervention following blunt abdominal trauma <span style="background-color: #c7c7c7">`ROC`</span> <span style="background-color: #c7c7c7">`GLM`</span>
 
 <span style="background-color: #c5b0d5">`longitudinal`</span> <span style="background-color: #9edae5">`animial experiment`</span> **Disease modifying effect in Alzheimer’s disease with cholinesterase inhibitors (paper in press)**
@@ -49,18 +49,20 @@
 
 ## 2018
 
-<span style="background-color: #c5b0d5">`retrospective cohort`</span> [**Percutaneous vs. Open Access for Extracorporeal Membrane Oxygenation in Pediatric Respiratory Failure**](https://doi.org/10.1097/PCC.0000000000001691)
+<span style="background-color: #c5b0d5">`retrospective`</span> [**Percutaneous vs. Open Access for Extracorporeal Membrane Oxygenation in Pediatric Respiratory Failure**](https://doi.org/10.1097/PCC.0000000000001691)
 - Evaluate trends in method of access (percutaneous vs. open cannulation) for pediatric extracorporeal membrane oxygenation (ECMO), and determine the effects of cannulation method on morbidity and mortality. <span style="background-color: #c7c7c7">`Cochrane-Armitage`</span> <span style="background-color: #c7c7c7">`GLM`</span>
 
 ## 2017
 
-<span style="background-color: #dbdb8d">`cross-sectional`</span> [**Salivary metals, age, and gender correlate with cultivable oral Candida carriage levels**](https://doi.org/10.1080/20002297.2018.1447216) <span style="background-color: #c7c7c7">`ZINB`</span> <span style="background-color: #c7c7c7">`LoD`</span>
+<span style="background-color: #dbdb8d">`cross-sectional`</span> [**Salivary metals, age, and gender correlate with cultivable oral Candida carriage levels**](https://doi.org/10.1080/20002297.2018.1447216) 
+- Investigate the normal range of metal levels in unstimulated saliva and their impact Candida carriage in healthy individuals. <span style="background-color: #c7c7c7">`ZINB`</span> <span style="background-color: #c7c7c7">`LoD`</span>
 
-<span style="background-color: #dbdb8d">`cross-sectional`</span> **Revised Trauma Score using Shock Index, Peripheral Oxygen Saturation: Data from National Trauma Databank** <span style="background-color: #c7c7c7">`ROC`</span>
+<span style="background-color: #dbdb8d">`retrospective`</span> [**Revised Trauma Score using Shock Index, Peripheral Oxygen Saturation: Data from National Trauma Databank**](https://doi.org/10.1016/j.surg.2019.12.003)
+- A retrospective database analysis using children and adults from the National Trauma Data Bank (2011-2015) to improve Revised Trauma Score.<span style="background-color: #c7c7c7">`ROC`</span>
 
 <span style="background-color: #c49c94">`agreement`</span> **Comparison of 3 electronic apex locators: Root ZX, Apex ID and CanalPro** <span style="background-color: #c7c7c7">`Bradley-Blackwood`</span> <span style="background-color: #c7c7c7">`ICC`</span>
 
-<span style="background-color: #c5b0d5">`retrospective cohort`</span> **Comparing iohexol and iodixanol in Nephropathy Study**
+<span style="background-color: #c5b0d5">`retrospective`</span> **Comparing iohexol and iodixanol in Nephropathy Study**
 - To compare the incidence of kidney damage between two contrast agents: iohexol and iodixanol <span style="background-color: #c7c7c7">`GLM`</span> <span style="background-color: #c7c7c7">`LASSO`</span> <span style="background-color: #c7c7c7">`propensity scores`</span>
 
 <span style="background-color: #9edae5">`preclinical`</span> [**Immunization study for a candidate vaccine antigen against *Moraxella catarrhalis***](https://doi.org/10.1128/IAI.00652-17)
@@ -70,7 +72,7 @@
 
 <span style="background-color: #f7b6d2">`experimental design`</span> **Permutated block randomization for a pilot study of child asthma among different healthcenter**
 
-<span style="background-color: #c5b0d5">`retrospective cohort`</span> [**Minimally Invasive Surgery in Trauma (Data from National Trauma Data Bank)**](https://doi.org/10.1089/lap.2019.0322)
+<span style="background-color: #c5b0d5">`retrospective`</span> [**Minimally Invasive Surgery in Trauma (Data from National Trauma Data Bank)**](https://doi.org/10.1089/lap.2019.0322)
 - To examine pediatric patients who underwent exploration for blunt or penetrating abdominal trauma in 2014 and 2015 <span style="background-color: #c7c7c7">`GLM`</span> <span style="background-color: #c7c7c7">`generalized Fisher`</span>
 
 

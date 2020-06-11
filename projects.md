@@ -17,7 +17,7 @@
 - Managing heavy drinking to avoid impaired driving: a study of interlock users <span style="background-color: #c7c7c7">`longitudinal`</span>
 
 <span style="background-color: #aec7e8">`clinical trial`</span> [**Combined Therapy with Narrow-Band Ultraviolet B Phototherapy and Apremilast for the Treatment of Vitiligo**](https://clinicaltrials.gov/ct2/show/study/NCT03123016)
-- A single group assignment split body study <span style="background-color: #c7c7c7">`McNemar test`</span> <span style="background-color: #c7c7c7">`ICC`</span> 
+- A single group assignment split body study <span style="background-color: #c7c7c7">`McNemar`</span> <span style="background-color: #c7c7c7">`ICC`</span> 
 
 <span style="background-color: #aec7e8">`clinical trial`</span> [**Aligning With Schools To Help Manage Asthma (paper under review)**](https://clinicaltrials.gov/ct2/show/NCT03032744)
 - A randomized pilot study to improve asthma care among poor and minority children through school-based health centers <span style="background-color: #c7c7c7">`LMM`</span> <span style="background-color: #c7c7c7">`exact wilcoxon`</span>
@@ -49,7 +49,7 @@
 ## 2018
 
 <span style="background-color: #c5b0d5">`retrospective cohort`</span> [**Percutaneous vs. Open Access for Extracorporeal Membrane Oxygenation in Pediatric Respiratory Failure**](https://doi.org/10.1097/PCC.0000000000001691)
-- Evaluate trends in method of access (percutaneous vs. open cannulation) for pediatric extracorporeal membrane oxygenation (ECMO), and determine the effects of cannulation method on morbidity and mortality. <span style="background-color: #c7c7c7">`Cochrane-Armitage test`</span> <span style="background-color: #c7c7c7">`logistic regression`</span>
+- Evaluate trends in method of access (percutaneous vs. open cannulation) for pediatric extracorporeal membrane oxygenation (ECMO), and determine the effects of cannulation method on morbidity and mortality. <span style="background-color: #c7c7c7">`Cochrane-Armitage`</span> <span style="background-color: #c7c7c7">`logistic regression`</span>
 
 ## 2017
 
@@ -57,7 +57,7 @@
 
 <span style="background-color: #dbdb8d">`cross-sectional`</span> **Revised Trauma Score using Shock Index, Peripheral Oxygen Saturation: Data from National Trauma Databank** <span style="background-color: #c7c7c7">`ROC`</span>
 
-<span style="background-color: #c49c94">`agreement`</span> **Comparison of 3 electronic apex locators: Root ZX, Apex ID and CanalPro** <span style="background-color: #c7c7c7">`Bradley-Blackwood test`</span> <span style="background-color: #c7c7c7">`ICC`</span>
+<span style="background-color: #c49c94">`agreement`</span> **Comparison of 3 electronic apex locators: Root ZX, Apex ID and CanalPro** <span style="background-color: #c7c7c7">`Bradley-Blackwood`</span> <span style="background-color: #c7c7c7">`ICC`</span>
 
 <span style="background-color: #c5b0d5">`retrospective cohort`</span> **Comparing iohexol and iodixanol in Nephropathy Study**
 - To compare the incidence of kidney damage between two contrast agents: iohexol and iodixanol <span style="background-color: #c7c7c7">`logistic regression`</span> <span style="background-color: #c7c7c7">`LASSO`</span> <span style="background-color: #c7c7c7">`propensity scores`</span>
@@ -75,7 +75,7 @@
 
 ## 2016
 <span style="background-color: #98df8a">`bioinformatics`</span> **RNA-Seq analysis in patients with traumatic brain injury**
-- To investigate the differential expression of RNA with a trend of Neurobehavioral Severity Scale (NSS) <span style="background-color: #c7c7c7">`Jonckheere test`</span> <span style="background-color: #c7c7c7">`heatmap`</span>
+- To investigate the differential expression of RNA with a trend of Neurobehavioral Severity Scale (NSS) <span style="background-color: #c7c7c7">`Jonckheere`</span> <span style="background-color: #c7c7c7">`heatmap`</span>
 
 <span style="background-color: #98df8a">`bioinformatics`</span> [**Analysis of the Source of Autoreactive IgM in Sjögren’s Syndrome**](https://dx.doi.org/10.1189%2Fjlb.2A0715-297R) <span style="background-color: #c7c7c7">`heatmap`</span>
 
@@ -114,12 +114,12 @@
 <span style="background-color: #dbdb8d">`cross-sectional`</span> [**Use of the Spanish subjunctive in bilingual children**](https://dx.doi.org/10.1080%2F10489223.2016.1192636) <span style="background-color: #c7c7c7">`GLMM`</span>
 
 <span style="background-color: #dbdb8d">`cross-sectional`</span> **Using the QuickDASH and Visual Analog Scale Pain Score in a Hand Surgery Private Practice**
-- Functional relationship between QuickDASH and VAS pain scores within and across diagnosis groups <span style="background-color: #c7c7c7">`Jonkheere test`</span>
+- Functional relationship between QuickDASH and VAS pain scores within and across diagnosis groups <span style="background-color: #c7c7c7">`Jonkheere`</span>
 
 <span style="background-color: #ffbb78">`survey`</span> **Hand surgical treatment choice** 
 - The association between surgical treatment choice and demographic characteristics, anesthesia type used, use of antibiotics, or use of tourniquet
 
-<span style="background-color: #dbdb8d">`cross-sectional`</span> **Primary Care to Type II Diabetes patient by Nurse Practitioners** <span style="background-color: #c7c7c7">`Cochran-Armatage test`</span>
+<span style="background-color: #dbdb8d">`cross-sectional`</span> **Primary Care to Type II Diabetes patient by Nurse Practitioners** <span style="background-color: #c7c7c7">`Cochran-Armatage`</span>
 
 
 ---

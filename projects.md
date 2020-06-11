@@ -9,7 +9,7 @@
 <span style="background-color: #ffbb78">`survey`</span> **Karen Health Literacy Study**
 - Survey analysis for Refugee Health Screener-15, develop a health literacy tool for the Karen refugees living in Buffalo <span style="background-color: #c7c7c7">`factor analysis`</span>
 
-<span style="background-color: #f7b6d2">`experient design`</span> **Spencer COVID Grant**
+<span style="background-color: #f7b6d2">`experimental design`</span> **Spencer COVID Grant**
 - Investigate an dialogue intervention for remote delivery that promotes positive social-emotional outcomes, intergroup relationships, and racial climate. <span style="background-color: #c7c7c7">`SAP`</span> <span style="background-color: #c7c7c7">`power`</span>  
 
 ## 2019
@@ -66,7 +66,7 @@
 <span style="background-color: #c49c94">`shinyapp`</span> [**Department Chair Evaluation Instrument**](https://ziqiangc.shinyapps.io/evaluationtool/)
 - A shiny app developed for visualizing chair candidate's scores
 
-<span style="background-color: #f7b6d2">`experient design`</span> **Permutated block randomization for a pilot study of child asthma among different healthcenter**
+<span style="background-color: #f7b6d2">`experimental design`</span> **Permutated block randomization for a pilot study of child asthma among different healthcenter**
 
 <span style="background-color: #c5b0d5">`retrospective cohort`</span> [**Minimally Invasive Surgery in Trauma (Data from National Trauma Data Bank)**](https://doi.org/10.1089/lap.2019.0322)
 - To examine pediatric patients who underwent exploration for blunt or penetrating abdominal trauma in 2014 and 2015
@@ -86,9 +86,9 @@
 <span style="background-color: #ffbb78">`survey`</span> **GOBike Buffalo**
 - Assessing the Impact of the Complete Streets Initiatives in Medium-to-Large Municipalities
 
-<span style="background-color: #f7b6d2">`experient design`</span> **Discover exosomal protein-microRNA biomarker candidates for CRC early detection**
+<span style="background-color: #f7b6d2">`experimental design`</span> **Discover exosomal protein-microRNA biomarker candidates for CRC early detection**
 
-<span style="background-color: #f7b6d2">`experient design`</span> [**Power Pilot Studies for the Comparison of Assay Platforms and Under Controlled Specificity**](https://www.researchgate.net/publication/303205325_A_Novel_and_Quick_Method_to_Power_Pilot_Studies_for_the_Comparison_of_Assay_Platforms_and_Under_Controlled_Specificity)
+<span style="background-color: #f7b6d2">`experimental design`</span> [**Power Pilot Studies for the Comparison of Assay Platforms and Under Controlled Specificity**](https://www.researchgate.net/publication/303205325_A_Novel_and_Quick_Method_to_Power_Pilot_Studies_for_the_Comparison_of_Assay_Platforms_and_Under_Controlled_Specificity)
 
 ## 2015
 

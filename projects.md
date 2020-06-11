@@ -4,17 +4,17 @@
 - Survey analysis for HFA’s Blood Sisterhood Program <span style="background-color: #c7c7c7">`cross-table`</span> <span style="background-color: #c7c7c7">`proc report`</span>
 
 <span style="background-color: #c5b0d5">`longitudinal`</span> **Incidence, progression and risk factors in eyes after Cataract Surgery** 
-- A retrospective chart review study `GLMM` `LMM` `Mixed-effects ordinal logistic regression model`
+- A retrospective chart review study <span style="background-color: #c7c7c7">`GLMM`</span> <span style="background-color: #c7c7c7">`ordinal GLMM`</span> 
 
 <span style="background-color: #ffbb78">`survey`</span> **Karen Health Literacy Study**
-- Survey analysis for Refugee Health Screener-15, develop a health literacy tool for the Karen refugees living in Buffalo `factor analysis`
+- Survey analysis for Refugee Health Screener-15, develop a health literacy tool for the Karen refugees living in Buffalo <span style="background-color: #c7c7c7">`factor analysis`</span>
 
-<span style="background-color: #ffbb78">`survey`</span> **Spencer COVID Grant**
-- Investigate an dialogue intervention for remote delivery that promotes positive social-emotional outcomes, intergroup relationships, and racial climate. `SAP` `power`
+<span style="background-color: #f7b6d2">`experient design`</span> **Spencer COVID Grant**
+- Investigate an dialogue intervention for remote delivery that promotes positive social-emotional outcomes, intergroup relationships, and racial climate. <span style="background-color: #c7c7c7">`SAP`</span> <span style="background-color: #c7c7c7">`power`</span>  
 
 ## 2019
-<span style="background-color: #aec7e8">`clinical trial`</span> **Interlock Study** [[link]](https://www.research.buffalo.edu/portal/clinicaltrial/protocol/5155)
-- Managing heavy drinking to avoid impaired driving: a study of interlock users`survey monkey` `Longitudinal study`
+<span style="background-color: #aec7e8">`clinical trial`</span> [**Interlock Study**](https://www.research.buffalo.edu/portal/clinicaltrial/protocol/5155)
+- Managing heavy drinking to avoid impaired driving: a study of interlock users `survey monkey` `longitudinal`
 
 <span style="background-color: #aec7e8">`clinical trial`</span> [**Combined Therapy with Narrow-Band Ultraviolet B Phototherapy and Apremilast for the Treatment of Vitiligo**](https://clinicaltrials.gov/ct2/show/study/NCT03123016)
 - A single group assignment split body study

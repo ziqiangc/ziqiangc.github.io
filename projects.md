@@ -85,7 +85,7 @@
 - A observational study to investigate epidemiologic factors that determine the pneumococcal burden (carriage) in the airway in COPD <span style="background-color: #c7c7c7">`GLMM`</span>
 
 <span style="background-color: #ffbb78">`survey`</span> **GOBike Buffalo**
-- Assessing the Impact of the Complete Streets Initiatives in Medium-to-Large Municipalities
+- Assessing the impact of the complete streets initiatives in medium-to-large municipalities
 
 <span style="background-color: #f7b6d2">`experimental design`</span> **Discover exosomal protein-microRNA biomarker candidates for CRC early detection**
 

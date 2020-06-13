@@ -1,50 +1,50 @@
 # Collaborative Projects
 ## 2020 
-<span style="background-color: #ffbb78">`survey`</span> [**Blood Sisterhood Survey (CDC)**](https://www.hemophiliafed.org/our-role-and-programs/assisting-and-advocating/blood-sisterhood/) 
+[**Blood Sisterhood Survey (CDC)**](https://www.hemophiliafed.org/our-role-and-programs/assisting-and-advocating/blood-sisterhood/) <span style="background-color: #ffbb78">`survey`</span> <span style="background-color: #dbdb8d">`cross-sectional`</span>
 - Survey analysis for HFA’s Blood Sisterhood Program <span style="background-color: #c7c7c7">`cross-table`</span> <span style="background-color: #c7c7c7">`proc report`</span>
 
-<span style="background-color: #c5b0d5">`longitudinal`</span> **Incidence, progression and risk factors of Macular Pucker/Epiretinal Membrane (ERM) in eyes after Cataract Surgery** 
+**Incidence, progression and risk factors of Macular Pucker/Epiretinal Membrane (ERM) in eyes after Cataract Surgery** <span style="background-color: #ff9896">`case-control`</span> 
 - A retrospective chart review study <span style="background-color: #c7c7c7">`GLMM`</span> <span style="background-color: #c7c7c7">`ordinal GLMM`</span> 
 
-<span style="background-color: #ffbb78">`survey`</span> **Karen Health Literacy Study**
+**Karen Health Literacy Study** <span style="background-color: #ffbb78">`survey`</span> 
 - Survey analysis for Refugee Health Screener-15, develop a health literacy tool for the Karen refugees living in Buffalo <span style="background-color: #c7c7c7">`factor analysis`</span>
 
-<span style="background-color: #f7b6d2">`experimental design`</span> **Spencer COVID Grant**
+**Spencer COVID Grant** <span style="background-color: #f7b6d2">`experimental design`</span> 
 - Investigate an dialogue intervention for remote delivery that promotes positive social-emotional outcomes, intergroup relationships, and racial climate. <span style="background-color: #c7c7c7">`SAP`</span> <span style="background-color: #c7c7c7">`power`</span>  
 
 ## 2019
-<span style="background-color: #aec7e8">`clinical trial`</span> [**Drinking and Driving Interlock Study**](https://www.research.buffalo.edu/portal/clinicaltrial/protocol/5155)
+[**Drinking and Driving Interlock Study**](https://www.research.buffalo.edu/portal/clinicaltrial/protocol/5155) <span style="background-color: #aec7e8">`clinical trial`</span> <span style="background-color: #c5b0d5">`logitudinal`</span>
 - Managing heavy drinking to avoid impaired driving: a study of interlock users
 
-<span style="background-color: #aec7e8">`clinical trial`</span> [**Combined Therapy with Narrow-Band Ultraviolet B Phototherapy and Apremilast for the Treatment of Vitiligo**](https://clinicaltrials.gov/ct2/show/study/NCT03123016)
+[**Combined Therapy with Narrow-Band Ultraviolet B Phototherapy and Apremilast for the Treatment of Vitiligo**](https://clinicaltrials.gov/ct2/show/study/NCT03123016) <span style="background-color: #aec7e8">`clinical trial`</span> 
 - A single group assignment split body study <span style="background-color: #c7c7c7">`McNemar`</span> <span style="background-color: #c7c7c7">`ICC`</span> 
 
-<span style="background-color: #aec7e8">`clinical trial`</span> [**Aligning With Schools To Help Manage Asthma (paper under review)**](https://clinicaltrials.gov/ct2/show/NCT03032744)
+[**Aligning With Schools To Help Manage Asthma (paper under review)**](https://clinicaltrials.gov/ct2/show/NCT03032744) <span style="background-color: #aec7e8">`clinical trial`</span> 
 - A randomized pilot study to improve asthma care among poor and minority children through school-based health centers <span style="background-color: #c7c7c7">`LMM`</span> <span style="background-color: #c7c7c7">`exact wilcoxon`</span>
 
-<span style="background-color: #9edae5">`preclinical`</span> **T3np in Cardiac Resuscitation – Pivotal Pre-Clinical Trial**
+**T3np in Cardiac Resuscitation – Pivotal Pre-Clinical Trial** <span style="background-color: #9edae5">`preclinical`</span>
 - Effect of different treatment on male pig in terms of cardiac resuscitation <span style="background-color: #c7c7c7">`Permuted Block Randomization`</span> <span style="background-color: #c7c7c7">`exact wilcoxon`</span>
 
-<span style="background-color: #c5b0d5">`prospective`</span> **Determinants of Post Hemodialysis Blood pH**
+**Determinants of Post Hemodialysis Blood pH** <span style="background-color: #c5b0d5">`prospective`</span>
 - A prospective trial to identify patient and dialysate factors that determine post dialysis blood pH <span style="background-color: #c7c7c7">`LMM`</span>
 
-<span style="background-color: #ffbb78">`survey`</span> **Vignette study about consensual nonmonogamy (paper under review)**
+**Vignette study about consensual nonmonogamy (paper under review)** <span style="background-color: #ffbb78">`survey`</span> 
 - A survey analysis on the influence of race on perceptions of sexual relationships: both hypothetical race and participants' race <span style="background-color: #c7c7c7">`GLMM`</span>
 
-<span style="background-color: #ffbb78">`survey`</span> **Vignette study about perceived sexual agency (paper under review)**
+**Vignette study about perceived sexual agency (paper under review)** <span style="background-color: #ffbb78">`survey`</span> 
 - A survey analysis on the perceptions of sexual types: *Agents, Virgins, Sluts and Losers*. <span style="background-color: #c7c7c7">`SAP`</span> <span style="background-color: #c7c7c7">`LMM`</span>
 
-<span style="background-color: #aec7e8">`clinical trial`</span> [**Music Intervention for Agitation Reduction in the Pediatric Intensive Care Unit**](https://clinicaltrials.gov/ct2/show/NCT03453814)
+[**Music Intervention for Agitation Reduction in the Pediatric Intensive Care Unit**](https://clinicaltrials.gov/ct2/show/NCT03453814) <span style="background-color: #aec7e8">`clinical trial`</span> 
 
-<span style="background-color: #ff9896">`meta analysis`</span> [**Timing of the definitive procedure and ileostomy closure for total colonic aganglionosis HD**](https://doi.org/10.1016/j.jpedsurg.2020.02.007)
+[**Timing of the definitive procedure and ileostomy closure for total colonic aganglionosis HD**](https://doi.org/10.1016/j.jpedsurg.2020.02.007) <span style="background-color: #c49c94">`meta analysis`</span> 
 
-<span style="background-color: #c5b0d5">`retrospective`</span> **Predictive Model for Operative Intervention following Blunt Abdominal Trauma in Children (paper in press)** 
+**Predictive Model for Operative Intervention following Blunt Abdominal Trauma in Children (paper in press)** <span style="background-color: #c5b0d5">`retrospective`</span>
 - Study the clinical and radiologic factors predicting the need for surgical intervention following blunt abdominal trauma <span style="background-color: #c7c7c7">`ROC`</span> <span style="background-color: #c7c7c7">`GLM`</span>
 
-<span style="background-color: #c5b0d5">`prospective`</span> <span style="background-color: #9edae5">`animial experiment`</span> **Disease modifying effect in Alzheimer’s disease with cholinesterase inhibitors (paper in press)**
+**Disease modifying effect in Alzheimer’s disease with cholinesterase inhibitors (paper in press)** <span style="background-color: #c5b0d5">`prospective`</span> <span style="background-color: #9edae5">`animial experiment`</span> 
 - A human specific fusion gene, accounts for the translational gap for cholinergic strategies in Alzheimer’s disease <span style="background-color: #c7c7c7">`AR1 LMM`</span>
 
-<span style="background-color: #ffbb78">`survey`</span> **Grit and Resilience in Burnout among Medical Students in Buffalo area**
+**Grit and Resilience in Burnout among Medical Students in Buffalo area** <span style="background-color: #ffbb78">`survey`</span>
 - Investigates grit (continued fortitude in the face of hardship) and resilience (ability to recover from a setback) and their relationship to burnout (emotional exhaustion caused by prolonged stress or frustration).
 
 ## 2018

@@ -3,7 +3,7 @@
 <span style="background-color: #ffbb78">`survey`</span> [**Blood Sisterhood Survey (CDC)**](https://www.hemophiliafed.org/our-role-and-programs/assisting-and-advocating/blood-sisterhood/) 
 - Survey analysis for HFA’s Blood Sisterhood Program <span style="background-color: #c7c7c7">`cross-table`</span> <span style="background-color: #c7c7c7">`proc report`</span>
 
-<span style="background-color: #c5b0d5">`longitudinal`</span> **Incidence, progression and risk factors in eyes after Cataract Surgery** 
+<span style="background-color: #c5b0d5">`longitudinal`</span> **Incidence, progression and risk factors of Macular Pucker/Epiretinal Membrane (ERM) in eyes after Cataract Surgery** 
 - A retrospective chart review study <span style="background-color: #c7c7c7">`GLMM`</span> <span style="background-color: #c7c7c7">`ordinal GLMM`</span> 
 
 <span style="background-color: #ffbb78">`survey`</span> **Karen Health Literacy Study**
@@ -38,10 +38,10 @@
 
 <span style="background-color: #ff9896">`meta analysis`</span> [**Timing of the definitive procedure and ileostomy closure for total colonic aganglionosis HD**](https://doi.org/10.1016/j.jpedsurg.2020.02.007)
 
-<span style="background-color: #c5b0d5">`retrospective`</span> **Predictive Model for Operative Intervention following Blunt Abdominal Trauma in Children** 
+<span style="background-color: #c5b0d5">`retrospective`</span> **Predictive Model for Operative Intervention following Blunt Abdominal Trauma in Children (paper in press)** 
 - Study the clinical and radiologic factors predicting the need for surgical intervention following blunt abdominal trauma <span style="background-color: #c7c7c7">`ROC`</span> <span style="background-color: #c7c7c7">`GLM`</span>
 
-<span style="background-color: #c5b0d5">`longitudinal`</span> <span style="background-color: #9edae5">`animial experiment`</span> **Disease modifying effect in Alzheimer’s disease with cholinesterase inhibitors (paper in press)**
+<span style="background-color: #c5b0d5">`prospective`</span> <span style="background-color: #9edae5">`animial experiment`</span> **Disease modifying effect in Alzheimer’s disease with cholinesterase inhibitors (paper in press)**
 - A human specific fusion gene, accounts for the translational gap for cholinergic strategies in Alzheimer’s disease <span style="background-color: #c7c7c7">`AR1 LMM`</span>
 
 <span style="background-color: #ffbb78">`survey`</span> **Grit and Resilience in Burnout among Medical Students in Buffalo area**
@@ -120,7 +120,7 @@
 <span style="background-color: #dbdb8d">`cross-sectional`</span> [**The complexity of the Spanish subjunctive in bilingual children**](https://dx.doi.org/10.1080%2F10489223.2016.1192636)
 - Investigates the use of the Spanish subjunctive in bilingual children with and without specific language impairments <span style="background-color: #c7c7c7">`GLM`</span>
 
-<span style="background-color: #c5b0d5">`retrospective`</span> **Using the QuickDASH and Visual Analog Scale Pain Score in a Hand Surgery Private Practice**
+<span style="background-color: #c5b0d5">`retrospective`</span> **Using the QUICKDASH and Visual Analog Scale pain score in a hand surgery private practice**
 - Functional relationship between QuickDASH and VAS pain scores within and across diagnosis groups <span style="background-color: #c7c7c7">`Jonkheere`</span>
 
 <span style="background-color: #ffbb78">`survey`</span> **Hand surgical treatment choice** 

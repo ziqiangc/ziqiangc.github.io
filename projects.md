@@ -36,7 +36,7 @@
 
 [**Music Intervention for Agitation Reduction in the Pediatric Intensive Care Unit**](https://clinicaltrials.gov/ct2/show/NCT03453814) <span style="background-color: #aec7e8">`clinical trial`</span> 
 
-[**Timing of the definitive procedure and ileostomy closure for total colonic aganglionosis HD**](https://doi.org/10.1016/j.jpedsurg.2020.02.007) <span style="background-color: #c49c94">`meta analysis`</span> 
+[**Timing of the definitive procedure and ileostomy closure for total colonic aganglionosis HD**](https://doi.org/10.1016/j.jpedsurg.2020.02.007) <span style="background-color: #ff9896">`meta analysis`</span> 
 
 **Predictive Model for Operative Intervention following Blunt Abdominal Trauma in Children (paper in press)** <span style="background-color: #c5b0d5">`retrospective`</span>
 - Study the clinical and radiologic factors predicting the need for surgical intervention following blunt abdominal trauma <span style="background-color: #c7c7c7">`ROC`</span> <span style="background-color: #c7c7c7">`GLM`</span>
@@ -121,7 +121,7 @@
 **Using the QUICKDASH and Visual Analog Scale pain score in a hand surgery private practice** <span style="background-color: #c5b0d5">`retrospective`</span>
 - Functional relationship between QuickDASH and VAS pain scores within and across diagnosis groups <span style="background-color: #c7c7c7">`Jonkheere`</span>
 
-**Hand surgical treatment choice** <span style="background-color: #ffbb78">`survey`</span> 
+**Hand surgical treatment choice** <span style="background-color: #ffbb78">`survey`</span> <span style="background-color: #c5b0d5">`retrospective`</span>
 - The association between surgical treatment choice and demographic characteristics, anesthesia type used, use of antibiotics, or use of tourniquet
 
 **Primary Care to Type II Diabetes patient by Nurse Practitioners** <span style="background-color: #dbdb8d">`cross-sectional`</span> 

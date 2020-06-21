@@ -19,6 +19,8 @@
 - Developed a two-step correction to estimate parameters in logistic regression with misclassification.
 - Evaluated and compared the new method with some existing methods and applied in National Health and Nutrition Examination Survey (NHANES) data.
 
+---
+
 # Collaborative Projects
 ## 2020 
 [**Blood Sisterhood Survey (CDC)**](https://www.hemophiliafed.org/our-role-and-programs/assisting-and-advocating/blood-sisterhood/) <span style="background-color: #ffbb78">`survey`</span> <span style="background-color: #dbdb8d">`cross-sectional`</span>

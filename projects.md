@@ -1,11 +1,11 @@
 # Methodological Research
-**Unconditional exact tests based on multiple comparisons for Poisson rate with application to Leukemia incidence data.**
+**Unconditional exact tests based on multiple comparisons for Poisson rate.**
 - Proposed an exact multiple comparison methods for Poisson random variables both based on conditional and unconditional approaches.
 - An example of Leukemia incidence after receiving treatments for Hodgkin’s disease is used to illustrate the testing methods.
 
 **A framework of generalized ROC analysis for multistage diagnostic testing procedures in the presence of intermediate results.**
-- Developed a multistage diagnostic testing algorithm where a given test may be used up to k times sequentially for a given patient, with additional testing only taking place if the result from the previous stage is intermediate. 
-- A full generalization of the ROC analysis such as summary indices, estimation and inference are proposed in this context. 
+- Developed a multistage diagnostic testing algorithm where a given test(s) used sequentially for a given patient, with additional testing only taking place if the result from the previous stage is intermediate. 
+- A full generalization of the ROC analysis such as summary indices, cost, estimation and inference are proposed in this context. 
 
 [**A novel exact method for Top-K family-wise error control.**](https://www.researchgate.net/publication/303182953_A_Novel_Exact_Method_for_Top-K_Family-wise_Error_Control_For_Small_Sample_Non-Small_Scale_Inference)
 - Proposed an exact test for the inference of top-K selected features in a two stage study.
@@ -15,8 +15,8 @@
 - Developed a novel bootstrap method for the inference of the alpha coefficient.
 - Incorporated complex survey design and applied in National Comorbidity Survey (NCS-R) data.
 
-**Logistic regression with misclassification in both outcome and predictors.**
-- Developed a two-step correction to estimate parameters in logistic regression with misclassification.
+**Logistic regression with misclassification (MC) in both outcome and predictors.**
+- Developed a two-step correction to estimate parameters in logistic regression with MC.
 - Evaluated and compared the new method with some existing methods and applied in National Health and Nutrition Examination Survey (NHANES) data.
 
 ---

@@ -4,7 +4,7 @@
 - An example of Leukemia incidence after receiving treatments for Hodgkin’s disease is used to illustrate the testing methods.
 
 **A framework of generalized ROC analysis for multistage diagnostic testing procedures in the presence of intermediate results.**
-- Developed a multistage diagnostic testing algorithm where a given test(s) can be used sequentially for a given patient, with the result from the previous stage is intermediate. 
+- Developed a multistage diagnostic testing algorithm where a test(s) can be used sequentially for a patient, when the result from the previous stage is intermediate. 
 - A full generalization of the ROC analysis such as summary indices, cost, estimation and inference are proposed in this context. 
 - Illustrated the method by examples of diagnosing diabetes and diagnosing melanoma.
 

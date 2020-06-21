@@ -14,7 +14,7 @@
 
 [**Confidence interval of Cronbach’s alpha with application to complex survey data.**](https://www150.statcan.gc.ca/n1/pub/12-001-x/2019003/article/00009-eng.htm)
 - Developed a novel bootstrap method for the inference of the alpha coefficient.
-- Incorporated complex survey design and applied in National Comorbidity Survey (NCS-R) data.
+- Incorporated complex survey design and applied in National Comorbidity Survey (NCS-R)data
 
 **Logistic regression with misclassification (MC) in both outcome and predictors.**
 - Developed a two-step correction to estimate parameters in logistic regression with MC.

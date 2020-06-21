@@ -10,7 +10,7 @@
 
 [**A novel exact method for Top-K family-wise error control.**](https://www.researchgate.net/publication/303182953_A_Novel_Exact_Method_for_Top-K_Family-wise_Error_Control_For_Small_Sample_Non-Small_Scale_Inference)
 - Proposed an exact test for the inference of top-K selected features in a two stage study.
-- Developed an R package and corresponding Shiny apps.
+- Developed [an R package and corresponding Shiny apps](https://github.com/ziqiangc/TopK).
 
 [**Confidence interval of Cronbach’s alpha with application to complex survey data.**](https://www150.statcan.gc.ca/n1/pub/12-001-x/2019003/article/00009-eng.htm)
 - Developed a novel bootstrap method for the inference of the alpha coefficient.

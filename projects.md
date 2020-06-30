@@ -28,7 +28,7 @@
 - Survey analysis for HFA’s Blood Sisterhood Program <span style="background-color: #c7c7c7">`cross-table`</span> <span style="background-color: #c7c7c7">`proc report`</span>
 
 **Incidence, progression and risk factors of Macular Pucker/Epiretinal Membrane (ERM) in eyes after Cataract Surgery** <span style="background-color: #ff9896">`case-control`</span> 
-- A retrospective chart review study <span style="background-color: #c7c7c7">`GLMM`</span> <span style="background-color: #c7c7c7">`ordinal GLMM`</span> 
+- A retrospective chart review study <span style="background -color: #c7c7c7">`GLMM`</span> <span style="background-color: #c7c7c7">`ordinal GLMM`</span> 
 
 **Karen Health Literacy Study** <span style="background-color: #ffbb78">`survey`</span> <span style="background-color: #dbdb8d">`cross-sectional`</span>
 - Survey analysis for Refugee Health Screener-15, develop a health literacy tool for the Karen refugees living in Buffalo <span style="background-color: #c7c7c7">`factor analysis`</span>
@@ -62,7 +62,7 @@
 
 [**Timing of the definitive procedure and ileostomy closure for total colonic aganglionosis HD**](https://doi.org/10.1016/j.jpedsurg.2020.02.007) <span style="background-color: #ff9896">`meta analysis`</span> 
 
-**Predictive Model for Operative Intervention following Blunt Abdominal Trauma in Children (paper in press)** <span style="background-color: #c5b0d5">`retrospective`</span>
+[**Predictive Model for Operative Intervention following Blunt Abdominal Trauma in Children**](https://doi.org/10.1016/j.jss.2020.05.088) <span style="background-color: #c5b0d5">`retrospective`</span>
 - Study the clinical and radiologic factors predicting the need for surgical intervention following blunt abdominal trauma <span style="background-color: #c7c7c7">`ROC`</span> <span style="background-color: #c7c7c7">`GLM`</span>
 
 **Disease modifying effect in Alzheimer’s disease with cholinesterase inhibitors (paper in press)** <span style="background-color: #c5b0d5">`prospective`</span> <span style="background-color: #9edae5">`animial experiment`</span> 

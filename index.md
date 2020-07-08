@@ -23,7 +23,7 @@ Hi! I am a Ph.D. candidate of Biostatistics at State University of New York at B
 
 ## Projects
 
-[Full list](https://ziqiangc.github.io/projects)
+[[Full list]](https://ziqiangc.github.io/projects)
 
 
 ## Publications

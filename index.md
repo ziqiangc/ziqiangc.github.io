@@ -21,7 +21,9 @@ Hi! I am a Ph.D. candidate of Biostatistics at State University of New York at B
 - Research Assistant, Clinical and Translational Science Institute, University at Buffalo. *Aug 2014 - pres.*
 - Research Assistant, Department of Biostatistics, University at Buffalo. *Jun 2014 - Jun 2016*
 
-## [Projects](https://ziqiangc.github.io/projects)
+## Projects
+
+[\underline{Full list}](https://ziqiangc.github.io/projects)
 
 
 ## Publications

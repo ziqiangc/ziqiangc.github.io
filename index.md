@@ -48,6 +48,7 @@ Hi! I am a Ph.D. candidate of Biostatistics at State University of New York at B
 
 ## Service
 - Reviewer, *Emerging Infectious Diseases*
+- Reviewer, *Public Health Reports*
 
 ## Honors and Awards
 <!---

@@ -65,7 +65,7 @@
 [**Predictive Model for Operative Intervention following Blunt Abdominal Trauma in Children**](https://doi.org/10.1016/j.jss.2020.05.088) <span style="background-color: #c5b0d5">`retrospective`</span>
 - Study the clinical and radiologic factors predicting the need for surgical intervention following blunt abdominal trauma <span style="background-color: #c7c7c7">`ROC`</span> <span style="background-color: #c7c7c7">`GLM`</span>
 
-**Disease modifying effect in Alzheimer’s disease with cholinesterase inhibitors (paper in press)** <span style="background-color: #c5b0d5">`prospective`</span> <span style="background-color: #9edae5">`animial experiment`</span> 
+[**Disease modifying effect in Alzheimer’s disease with cholinesterase inhibitors**](https://doi.org/10.1016/j.ebiom.2020.102892) <span style="background-color: #c5b0d5">`prospective`</span> <span style="background-color: #9edae5">`animial experiment`</span> 
 - A human specific fusion gene, accounts for the translational gap for cholinergic strategies in Alzheimer’s disease <span style="background-color: #c7c7c7">`AR1 LMM`</span>
 
 **Grit and Resilience in Burnout among Medical Students in Buffalo area** <span style="background-color: #ffbb78">`survey`</span> <span style="background-color: #dbdb8d">`cross-sectional`</span>

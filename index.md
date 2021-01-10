@@ -27,9 +27,10 @@ Hi! I am a Ph.D. candidate of Biostatistics at State University of New York at B
 
 
 ## Publications
-- **Chen, Z.**, Koestler, D., Miecznikowski, J. C., Ren, X. Gaile, D. P. (2020). A novel exact method for Top-K family-wise error control for small sample non-small scale inference. (submitted)
-- He, Z., **Chen, Z.**, Wu, Y and Gaile, D. P. (2020). A novel and quick method to power pilot studies for the comparison of assay platforms and under controlled specificity. (submitted) 
-- Lamoshi, A., Ham III, P. B., **Chen, Z.**, Wildling, G., Vali, K. (2020). Timing of the definitive procedure and ileostomy closure for Total colonic Aganglionosis HD: systematic review. *Journal of Pediatric Surgery*. (In press).
+- **Chen, Z.**, Koestler, D., Miecznikowski, J. C., Ren, X. Gaile, D. P. (2021). A novel exact method for Top-K family-wise error control for small sample non-small scale inference. (submitted)
+- He, Z., **Chen, Z.**, Wu, Y and Gaile, D. P. (2021). A novel and quick method to power pilot studies for the comparison of assay platforms and under controlled specificity. (submitted) 
+- Holmes, L. C., Orom, H., Lehman, H. K., Lampkin, S., Halterman, J. S., ... **Chen, Z** & Wilding, G. E. (2021). A Pilot School-Based Health Center Intervention to Improve Asthma Chronic Care in High-Poverty Schools. *Journal of Asthma*, 1-16.
+- Lamoshi, A., Ham III, P. B., **Chen, Z.**, Wildling, G., Vali, K. (2020). Timing of the definitive procedure and ileostomy closure for Total colonic Aganglionosis HD: systematic review. *Journal of Pediatric Surgery*, 55(11), 2366-2370.
 - Szigeti, K., Ihnatovych, I., Birkaya, B., **Chen, Z**., et al. (2020). CHRFAM7A, a human specific fusion gene, accounts for the translational gap for cholinergic strategies in Alzheimer’s disease. *EBioMedicine*, 59, 102892.
 - Lamoshi A., Wagner N., Miller L., **Chen Z.**, Fabiano T., Wildling G., Rothstein D., Bass K. (2020). Predictive model for operative intervention following blunt abdominal trauma in children with equivocal CT findings. *Journal of Surgical Research*, 255, 449-455.
 - Yu, J., **Chen, Z.**, Wang, K., Tezal, M. (2019). Suggestion of the confidence interval of the Cronbach alpha in application to complex survey data. *Survey Methodology*, 45(3), 465-484.

@@ -6,10 +6,10 @@ layout: default
 
 <img class="profile-picture" src="0.jpg">
 
-Hi! I am a Ph.D. candidate of Biostatistics at State University of New York at Buffalo.
+Hi! I am a statistician from Merck & Co., Inc.
 
 ## Education
-- Ph.D. in Biostatistics, University at Buffalo, *Expected 2020*
+- Ph.D. in Biostatistics, University at Buffalo, *2020*
 - M.A. in Biostatistics, University at Buffalo, *2015*
 - M.S. in Marine Biology, The Second Institute of Oceanography, *2013*
 - B.Sc. in Biological Science, Shandong University, *2009*
@@ -17,8 +17,8 @@ Hi! I am a Ph.D. candidate of Biostatistics at State University of New York at B
 
 ## Experence
 - Biostatistician, Intern, HTG Molecular Diagnostic, Inc. *Jan 2018 - Jan 2019*
-- Research Assistant, School of Social Work, University at Buffalo. *Jun 2019 - pres.*
-- Research Assistant, Clinical and Translational Science Institute, University at Buffalo. *Aug 2014 - pres.*
+- Research Assistant, School of Social Work, University at Buffalo. *Jun 2019 - Dec 2020*
+- Research Assistant, Clinical and Translational Science Institute, University at Buffalo. *Aug 2014 - Dec 2020*
 - Research Assistant, Department of Biostatistics, University at Buffalo. *Jun 2014 - Jun 2016*
 
 ## Projects
@@ -27,8 +27,10 @@ Hi! I am a Ph.D. candidate of Biostatistics at State University of New York at B
 
 
 ## Publications
-- **Chen, Z.**, Koestler, D., Miecznikowski, J. C., Ren, X. Gaile, D. P. (2021). A novel exact method for Top-K family-wise error control for small sample non-small scale inference. (submitted)
-- He, Z., **Chen, Z.**, Wu, Y and Gaile, D. P. (2021). A novel and quick method to power pilot studies for the comparison of assay platforms and under controlled specificity. (submitted) 
+- **Chen, Z.**, Koestler, D., Miecznikowski, J. C., Ren, X. Gaile, D. P. (2022). A novel exact method for Top-K family-wise error control for small sample non-small scale inference. (pending)
+- He, Z., **Chen, Z.**, Wu, Y and Gaile, D. P. (2022). A novel and quick method to power pilot studies for the comparison of assay platforms and under controlled specificity. (pending) 
+- Sridhar, N. R., **Chen, Z.**, Yu, G., Lambert, J., Muscarella, M., Nanjundegowda, M., & Panesar, M. (2022). Effect of dialysate bicarbonate and sodium on blood pH in maintenance hemodialysis—A prospective study. *Therapeutic Apheresis and Dialysis*.
+- Vil, N. M. S., Bay-Cheng, L. Y., Ginn, H. G., & **Chen, Z.** (2022). Perceptions of monogamy, nonconsensual nonmonogamy and consensual nonmonogamy at the intersections of race and gender. *Culture, Health & Sexuality*, 24(1), 109-124.
 - Holmes, L. C., Orom, H., Lehman, H. K., Lampkin, S., Halterman, J. S., ... **Chen, Z.**, Wilding, G. E. (2021). A Pilot School-Based Health Center Intervention to Improve Asthma Chronic Care in High-Poverty Schools. *Journal of Asthma*, 1-16.
 - Lamoshi, A., Ham III, P. B., **Chen, Z.**, Wildling, G., Vali, K. (2020). Timing of the definitive procedure and ileostomy closure for Total colonic Aganglionosis HD: systematic review. *Journal of Pediatric Surgery*, 55(11), 2366-2370.
 - Szigeti, K., Ihnatovych, I., Birkaya, B., **Chen, Z**., et al. (2020). CHRFAM7A, a human specific fusion gene, accounts for the translational gap for cholinergic strategies in Alzheimer’s disease. *EBioMedicine*, 59, 102892.
@@ -46,12 +48,13 @@ Hi! I am a Ph.D. candidate of Biostatistics at State University of New York at B
 - **Chen, Z.**, Shou, L., Liao, Y., Gao, A., Zeng, J., Chen, Q. (2013). Community structure of benthic algae and its seasonal variation in the rocky intertidal zone of Sanya. *Acta Ecologica Sinica*, 33(11): 3370- 3382. 
 
 <span>**In Progress:**</span> 
-- **Chen, Z.**, Wilding, G. E. (2020). Unconditional exact tests based on multiple comparisons for Poisson rate. 
-- **Chen, Z.**, Wilding, G. E. (2020). A generalized ROC analysis for multistage diagnostic testing procedures in the presence of intermediate results.
+- **Chen, Z.**, Wilding, G. E. (2023). Unconditional exact tests based on multiple comparisons for Poisson rate. 
+- **Chen, Z.**, Wilding, G. E. (2023). A generalized ROC analysis for multistage diagnostic testing procedures in the presence of intermediate results.
 
 ## Service
 - Reviewer, *Emerging Infectious Diseases*
 - Reviewer, *Public Health Reports*
+- Reviewer, *Pharmaceutical Statistics*
 
 ## Honors and Awards
 <!---

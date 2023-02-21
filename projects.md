@@ -49,10 +49,10 @@
 **T3np in Cardiac Resuscitation – Pivotal Pre-Clinical Trial** <span style="background-color: #9edae5">`preclinical`</span>
 - Effect of different treatment on male pig in terms of cardiac resuscitation <span style="background-color: #c7c7c7">`Permuted Block Randomization`</span> <span style="background-color: #c7c7c7">`exact wilcoxon`</span>
 
-**Determinants of Post Hemodialysis Blood pH** <span style="background-color: #c5b0d5">`prospective`</span>
+[**Determinants of Post Hemodialysis Blood pH (peer review paper)**](https://doi.org/10.1111/1744-9987.13920) <span style="background-color: #c5b0d5">`prospective`</span>
 - A prospective trial to identify patient and dialysate factors that determine post dialysis blood pH <span style="background-color: #c7c7c7">`LMM`</span>
 
-**Vignette study about consensual nonmonogamy (paper under review)** <span style="background-color: #ffbb78">`survey`</span> 
+[**Vignette study about consensual nonmonogamy (peer review paper)**](https://doi.org/10.1080/13691058.2020.1817561) <span style="background-color: #ffbb78">`survey`</span> 
 - A survey analysis on the influence of race on perceptions of sexual relationships: both hypothetical race and participants' race <span style="background-color: #c7c7c7">`GLMM`</span>
 
 **Vignette study about perceived sexual agency (paper under review)** <span style="background-color: #ffbb78">`survey`</span> 

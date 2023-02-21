@@ -17,7 +17,7 @@ Hi! I am a statistician from Merck & Co., Inc.
 
 ## Experence
 - Biostatistician, Intern, HTG Molecular Diagnostic, Inc. *Jan 2018 - Jan 2019*
-- Research Assistant, School of Social Work, University at Buffalo. *Jun 2019 - Dec 2020*
+- Research Assistant, School of Social Work, University at Buffalo. *Jun 2019 - Jun 2020*
 - Research Assistant, Clinical and Translational Science Institute, University at Buffalo. *Aug 2014 - Dec 2020*
 - Research Assistant, Department of Biostatistics, University at Buffalo. *Jun 2014 - Jun 2016*
 

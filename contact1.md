@@ -5,6 +5,19 @@ is_contact: true
 
 * Email: [ziqiangc.us@gmail.com](mailto:ziqiangc.us@gmail.com)
 
+* Phone: [+1-7164295949](tel:+1-7164295949)
+
+---
+
+## Mailing Address
+
+> 714 Kimball Tower
+>
+> 3435 Main Street
+>
+> Buffalo, NY 14226
+
+---
 
 ## Links
 
